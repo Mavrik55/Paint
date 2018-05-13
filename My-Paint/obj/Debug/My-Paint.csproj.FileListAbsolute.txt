@@ -1,0 +1,83 @@
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\My-Paint.exe
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.FreeGlut.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.OpenGl.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.FreeGlut.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.OpenGl.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\obj\Debug\My-Paint.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Прост)0))\My-Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\1\Desktop\Прост)0))\My-Paint\obj\Debug\My_Paint.Properties.Resources.resources
+C:\Users\1\Desktop\Прост)0))\My-Paint\obj\Debug\My-Paint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Прост)0))\My-Paint\obj\Debug\My-Paint.exe
+C:\Users\1\Desktop\Прост)0))\My-Paint\obj\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Cg.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.DevIl.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.FFmpeg.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.FreeType.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Glfw.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Lua.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Ode.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.OpenAl.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.PhysFs.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Platform.X11.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Sdl.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Cg.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.DevIl.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.FFmpeg.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.FreeType.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Glfw.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Lua.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Ode.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.OpenAl.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.PhysFs.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Platform.X11.xml
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\Tao.Sdl.xml
+C:\Users\1\Desktop\Рабочий стол 6 января 2018\Прост)0))\My-Paint\obj\Debug\My-Paint.exe
+C:\Users\1\Desktop\Рабочий стол 6 января 2018\Прост)0))\My-Paint\obj\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Рабочий стол 6 января 2018\Прост)0))\My-Paint\obj\Debug\My-Paint.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Рабочий стол 6 января 2018\Прост)0))\My-Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\1\Desktop\Рабочий стол 6 января 2018\Прост)0))\My-Paint\obj\Debug\My_Paint.Properties.Resources.resources
+C:\Users\1\Desktop\Рабочий стол 6 января 2018\Прост)0))\My-Paint\obj\Debug\My-Paint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Прост)0))\My-Paint\obj\Debug\My_Paint.Form1.ru.resources
+C:\Users\1\Desktop\Прост)0))\My-Paint\bin\Debug\ru\My-Paint.resources.dll
+C:\Users\1\Desktop\Прост)0))\My-Paint\obj\Debug\ru\My-Paint.resources.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\obj\Debug\My-Paint.exe
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\obj\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\obj\Debug\My_Paint.Properties.Resources.resources
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\obj\Debug\My_Paint.Form1.ru.resources
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\obj\Debug\My-Paint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\My-Paint.exe
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\ru\My-Paint.resources.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Cg.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.DevIl.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.FFmpeg.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.FreeGlut.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.FreeType.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Glfw.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Lua.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Ode.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.OpenAl.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.OpenGl.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.PhysFs.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Platform.X11.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Sdl.dll
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Cg.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.DevIl.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.FFmpeg.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.FreeGlut.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.FreeType.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Glfw.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Lua.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Ode.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.OpenAl.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.OpenGl.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.PhysFs.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Platform.X11.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\bin\Debug\Tao.Sdl.xml
+C:\Users\1\Desktop\Paint C# NEW\My-Paint\obj\Debug\ru\My-Paint.resources.dll

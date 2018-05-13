@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\bin\x86\Debug\GeometricTransformation.exe
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\bin\x86\Debug\GeometricTransformation.pdb
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\bin\x86\Debug\Tao.FreeGlut.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\bin\x86\Debug\Tao.OpenGl.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\bin\x86\Debug\Tao.Platform.Windows.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\bin\x86\Debug\Tao.FreeGlut.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\bin\x86\Debug\Tao.OpenGl.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\bin\x86\Debug\Tao.Platform.Windows.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\obj\x86\Debug\GeometricTransformation.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\obj\x86\Debug\GeometricTransformation.Form1.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\obj\x86\Debug\GeometricTransformation.Properties.Resources.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\obj\x86\Debug\GeometricTransformation.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\obj\x86\Debug\GeometricTransformation.exe
+C:\Users\1\Desktop\Прост)0))\Paint DeN\GeometricTransformation\obj\x86\Debug\GeometricTransformation.pdb

@@ -1,0 +1,40 @@
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\bin\Debug\My-Paint.exe
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\bin\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.FreeGlut.dll
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.OpenGl.dll
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.FreeGlut.xml
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.OpenGl.xml
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My-Paint.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My_Paint.Properties.Resources.resources
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My-Paint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My-Paint.exe
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My_Paint.Component1.resources
+C:\Users\1\Desktop\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My_Paint.Form2.resources
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My-Paint.exe
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\bin\Debug\My-Paint.exe
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\bin\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.FreeGlut.dll
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.OpenGl.dll
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.FreeGlut.xml
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.OpenGl.xml
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My-Paint.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My_Paint.Component1.resources
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My_Paint.Form2.resources
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My_Paint.Properties.Resources.resources
+C:\Users\1\Desktop\Рабочий стол ноябрь 2017\Прост)0))\Backup\Backup\My-Paint\obj\Debug\My-Paint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Backup\My-Paint\obj\Debug\My-Paint.exe
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Backup\My-Paint\obj\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Backup\My-Paint\obj\Debug\My-Paint.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Backup\My-Paint\obj\Debug\My_Paint.Component1.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Backup\My-Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Backup\My-Paint\obj\Debug\My_Paint.Form2.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Backup\My-Paint\obj\Debug\My_Paint.Properties.Resources.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Backup\My-Paint\obj\Debug\My-Paint.csproj.GenerateResource.Cache

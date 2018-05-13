@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Splines">
+</Property><Property Name="Solution File" Value="C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Splines.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Splines.suo">
+</Property><Property Name="Date" Value="7 марта 2015 г.">
+</Property><Property Name="Time" Value="11:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Splines.sln" Description="File successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Splines.suo" Description="File successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines.suo">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Splines.csproj" Description="Project file successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines\Splines.csproj">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Form1.cs" Description="File successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Program.cs" Description="File successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines\Program.cs">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Form1.resx" Description="File successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Anvi\Desktop\source_urok_8_esate.ru\Splines\Backup\Splines\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Splines.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Splines" Source="Splines\Splines.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Splines.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Splines.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Splines" Source="Splines\Splines.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

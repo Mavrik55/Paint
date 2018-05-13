@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\x86\Debug\My-Paint.exe
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\x86\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\x86\Debug\Tao.FreeGlut.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\x86\Debug\Tao.OpenGl.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\x86\Debug\Tao.Platform.Windows.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\x86\Debug\Tao.FreeGlut.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\x86\Debug\Tao.OpenGl.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\x86\Debug\Tao.Platform.Windows.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\x86\Debug\My-Paint.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\x86\Debug\My_Paint.Form1.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\x86\Debug\My_Paint.Properties.Resources.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\x86\Debug\My-Paint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\x86\Debug\My-Paint.exe
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\x86\Debug\My-Paint.pdb

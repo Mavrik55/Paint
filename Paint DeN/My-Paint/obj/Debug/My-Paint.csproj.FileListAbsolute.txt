@@ -1,0 +1,28 @@
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\bin\Debug\My-Paint.exe
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\bin\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\bin\Debug\Tao.FreeGlut.dll
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\bin\Debug\Tao.OpenGl.dll
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\bin\Debug\Tao.FreeGlut.xml
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\bin\Debug\Tao.OpenGl.xml
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\obj\Debug\My-Paint.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\obj\Debug\My_Paint.Properties.Resources.resources
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\obj\Debug\My-Paint.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\obj\Debug\My-Paint.exe
+C:\Users\1\Desktop\Прост)0))\Backup\My-Paint\obj\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\Debug\My-Paint.exe
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\Debug\My-Paint.exe
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\Debug\My-Paint.pdb
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\Debug\Tao.FreeGlut.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\Debug\Tao.OpenGl.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\Debug\Tao.FreeGlut.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\Debug\Tao.OpenGl.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\Debug\My-Paint.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\Debug\My_Paint.Form1.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\Debug\My_Paint.Properties.Resources.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\My-Paint\obj\Debug\My-Paint.csproj.GenerateResource.Cache

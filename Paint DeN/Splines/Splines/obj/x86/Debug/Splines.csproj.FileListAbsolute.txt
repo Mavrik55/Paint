@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\bin\x86\Debug\Splines.exe
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\bin\x86\Debug\Splines.pdb
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\bin\x86\Debug\Tao.FreeGlut.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\bin\x86\Debug\Tao.OpenGl.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\bin\x86\Debug\Tao.Platform.Windows.dll
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\bin\x86\Debug\Tao.FreeGlut.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\bin\x86\Debug\Tao.OpenGl.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\bin\x86\Debug\Tao.Platform.Windows.xml
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\obj\x86\Debug\Splines.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\obj\x86\Debug\Splines.Form1.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\obj\x86\Debug\Splines.Properties.Resources.resources
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\obj\x86\Debug\Splines.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\obj\x86\Debug\Splines.exe
+C:\Users\1\Desktop\Прост)0))\Paint DeN\Splines\Splines\obj\x86\Debug\Splines.pdb
+C:\Users\1\Desktop\Рабочий стол 6 января 2018\Прост)0))\Paint DeN\Splines\Splines\obj\x86\Debug\Splines.exe
+C:\Users\1\Desktop\Рабочий стол 6 января 2018\Прост)0))\Paint DeN\Splines\Splines\obj\x86\Debug\Splines.pdb
